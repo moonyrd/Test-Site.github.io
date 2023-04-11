@@ -1,0 +1,35 @@
+html {
+    background-color: #ff0000;
+    font-size: 32px;
+    font-family: "Delicious Handrawn";
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: black;
+  padding: 0 20px 20px 20px;
+  border: 5px white;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: white;
+}
+
+p,
+li,
+em {
+  font-size: 25px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: white;
+}
+
+
+img {
+	width: 300px;
+	display: block;
+	margin: 0 auto;
+}
